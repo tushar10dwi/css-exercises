@@ -33,16 +33,19 @@ img {
 .content {
   display: flex;
   justify-content: center;
-  margin-top: 30px;
+  margin-top: 32px;
   flex: 1;
-  gap: 150px;
+  gap: 152px;
 }
 
 .facts {
   display: flex;
   justify-content: center;
   flex: 1;
-  margin: 20px 80px;
-  gap: 50px;
+  gap: 52px;
 }
 
+.text {
+  text-wrap: wrap;
+  width: 200px;
+}
